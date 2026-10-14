@@ -1,0 +1,295 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>CTCAC Housing Claims</title>
+<style>
+  :root {
+    --bg: #f7f6f3; --card: #ffffff; --text: #1f2328; --muted: #5f6670;
+    --line: #e2e0da; --accent: #2f6f4f; --quote: #f1efe9; --held: #a3412b;
+    --held-bg: #fbeeea;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root:not([data-theme="light"]) {
+      --bg: #16181b; --card: #1f2226; --text: #e6e6e3; --muted: #a0a6ad;
+      --line: #33373c; --accent: #7cc49d; --quote: #26292e; --held: #f0907a;
+      --held-bg: #2e2220;
+    }
+  }
+  :root[data-theme="dark"] {
+    --bg: #16181b; --card: #1f2226; --text: #e6e6e3; --muted: #a0a6ad;
+    --line: #33373c; --accent: #7cc49d; --quote: #26292e; --held: #f0907a;
+    --held-bg: #2e2220;
+  }
+  * { box-sizing: border-box; }
+  body { margin: 0; background: var(--bg); color: var(--text);
+         font: 16px/1.5 system-ui, -apple-system, "Segoe UI", sans-serif; }
+  main { max-width: 860px; margin: 0 auto; padding: 32px 16px 64px; }
+  h1 { font-size: 1.7rem; margin: 0 0 8px; }
+  .lede { color: var(--muted); margin: 0 0 16px; }
+  .stats { display: flex; gap: 12px; flex-wrap: wrap; margin: 16px 0 8px; }
+  .stat { background: var(--card); border: 1px solid var(--line); border-radius: 8px;
+          padding: 10px 14px; }
+  .stat b { font-size: 1.3rem; display: block; }
+  .stat.bad b { color: var(--held); }
+  .note { font-size: .9rem; color: var(--muted); }
+  section { margin-top: 40px; }
+  h2 { font-size: 1.2rem; margin: 0 0 4px; }
+  .qnum { color: var(--accent); margin-right: 4px; }
+  .count, .empty { color: var(--muted); font-size: .95rem; margin: 0 0 12px; }
+  .claim { background: var(--card); border: 1px solid var(--line); border-radius: 10px;
+           padding: 16px 18px; margin: 12px 0; }
+  .claim.held { border-color: var(--held); background: var(--held-bg); }
+  .figure { display: flex; align-items: baseline; gap: 10px; flex-wrap: wrap; }
+  .value { font-size: 1.6rem; font-weight: 700; color: var(--accent);
+           font-variant-numeric: tabular-nums; }
+  .held .value { color: var(--held); }
+  .unit { color: var(--muted); font-size: .9rem; }
+  .subject { margin: 6px 0 2px; font-weight: 600; }
+  .meta, .source, .sid { color: var(--muted); font-size: .88rem; margin: 2px 0; }
+  blockquote { margin: 10px 0; padding: 10px 14px; background: var(--quote);
+               border-left: 3px solid var(--accent); font-size: .93rem;
+               white-space: pre-wrap; overflow-wrap: anywhere; }
+  .held blockquote { border-left-color: var(--held); }
+  .reason { color: var(--held); margin: 8px 0 0; }
+  .checks { margin: 8px 0 0; padding-left: 20px; font-size: .88rem; color: var(--muted); }
+  a { color: var(--accent); overflow-wrap: anywhere; }
+  footer { margin-top: 48px; border-top: 1px solid var(--line); padding-top: 16px; }
+  footer ul { padding-left: 20px; }
+</style>
+</head>
+<body>
+<main>
+  <h1>Affordable housing in California: verified claims</h1>
+  <p class="lede">Affordable housing development in California, as recorded in public data from the California Tax Credit Allocation Committee (CTCAC), which awards federal and state Low-Income Housing Tax Credits (LIHTC). Official, publicly accessible government sources come first.</p>
+  <div class="stats">
+    <div class="stat"><b>15</b>claims</div>
+    <div class="stat"><b>15</b>verified</div>
+    <div class="stat"><b>0</b>held</div>
+    <div class="stat"><b>4</b>sources</div>
+  </div>
+  <p class="note">"Verified" means the source file is unchanged, the quote appears word for word
+  in it, and the number appears in the quote. It does not mean the claim is the right fact:
+  read the quote, and check the notes under a claim. Credit amounts in staff reports are
+  recommendations, not confirmed awards. Federal credits are annual; state credits are totals.</p>
+  
+  <section>
+    <h2><span class="qnum">Q1</span> Where are affordable housing projects being developed across California, and how has development activity changed over time?</h2>
+    <p class="count">0 verified claims</p>
+    <p class="empty">No verified claims answer this question yet.</p>
+  </section>
+  <section>
+    <h2><span class="qnum">Q2</span> Who are the most active affordable housing developers, and how many projects and units are associated with each developer?</h2>
+    <p class="count">0 verified claims</p>
+    <p class="empty">No verified claims answer this question yet.</p>
+  </section>
+  <section>
+    <h2><span class="qnum">Q3</span> How much public funding or tax credit financing is being awarded to these projects, and how does it vary by location, developer, and project size?</h2>
+    <p class="count">10 verified claims</p>
+    
+    <article class="claim">
+      <div class="figure">
+        <span class="value">$2,500,000</span>
+        <span class="unit">US dollars per year (federal 9% credits)</span>
+      </div>
+      <p class="subject">Turning Point Commons (Chico): annual federal tax credits recommended by CTCAC staff (recommendation, not a confirmed award)</p>
+      <p class="meta">2025 Second Round, staff report dated September 30, 2025 · claim c1</p>
+      <blockquote>Turning Point Commons, located at 25 Via La Paz in Chico, requested and is being recommended for a reservation of $2,500,000 in annual federal tax credits and $8,333,333 in total state tax credits to finance the rehabilitation of 65 units of housing serving tenants with rents affordable to households earning 30%-80% of area median income (AMI).</blockquote>
+      <p class="source">Source: <a href="https://www.treasurer.ca.gov/sites/default/files/ctcac/CA-25-087.pdf">CTCAC Project Staff Report CA-25-087 Turning Point Commons (2025)</a> <span class="sid">(ca-25-087)</span></p>
+      
+      <ul class="checks"><li>The quote contains 6 different numbers. Confirm this value is the one the subject describes.</li></ul>
+    </article>
+    <article class="claim">
+      <div class="figure">
+        <span class="value">$8,333,333</span>
+        <span class="unit">US dollars, total (state credits, not annual)</span>
+      </div>
+      <p class="subject">Turning Point Commons (Chico): total state tax credits recommended by CTCAC staff (recommendation, not a confirmed award)</p>
+      <p class="meta">2025 Second Round, staff report dated September 30, 2025 · claim c2</p>
+      <blockquote>Turning Point Commons, located at 25 Via La Paz in Chico, requested and is being recommended for a reservation of $2,500,000 in annual federal tax credits and $8,333,333 in total state tax credits to finance the rehabilitation of 65 units of housing serving tenants with rents affordable to households earning 30%-80% of area median income (AMI).</blockquote>
+      <p class="source">Source: <a href="https://www.treasurer.ca.gov/sites/default/files/ctcac/CA-25-087.pdf">CTCAC Project Staff Report CA-25-087 Turning Point Commons (2025)</a> <span class="sid">(ca-25-087)</span></p>
+      
+      <ul class="checks"><li>The quote contains 6 different numbers. Confirm this value is the one the subject describes.</li></ul>
+    </article>
+    <article class="claim">
+      <div class="figure">
+        <span class="value">$38,025,468</span>
+        <span class="unit">US dollars</span>
+      </div>
+      <p class="subject">Turning Point Commons (Chico): total development cost, from the permanent financing TOTAL row (estimate at application)</p>
+      <p class="meta">At application, 2025 Second Round · claim c4</p>
+      <blockquote>TOTAL                      $38,025,468</blockquote>
+      <p class="source">Source: <a href="https://www.treasurer.ca.gov/sites/default/files/ctcac/CA-25-087.pdf">CTCAC Project Staff Report CA-25-087 Turning Point Commons (2025)</a> <span class="sid">(ca-25-087)</span></p>
+      
+      
+    </article>
+    <article class="claim">
+      <div class="figure">
+        <span class="value">$1,184,954</span>
+        <span class="unit">US dollars per year (federal 9% credits)</span>
+      </div>
+      <p class="subject">Tracy Apartments Phase I (Tracy): annual federal tax credits recommended by CTCAC staff (recommendation, not a confirmed award)</p>
+      <p class="meta">2025 First Round, staff report dated June 18, 2025 · claim c5</p>
+      <blockquote>Tracy Apartments Phase I, located at 301 West Street in Tracy, requested and is being recommended for a reservation of $1,184,954 in annual federal tax credits to finance the new construction of 54 units of housing serving seniors with rents affordable to households earning 30%-50% of area median income (AMI).</blockquote>
+      <p class="source">Source: <a href="https://www.treasurer.ca.gov/sites/default/files/ctcac/CA-25-013.pdf">CTCAC Project Staff Report CA-25-013 Tracy Apartments Phase I (2025)</a> <span class="sid">(ca-25-013)</span></p>
+      
+      <ul class="checks"><li>The quote contains 5 different numbers. Confirm this value is the one the subject describes.</li></ul>
+    </article>
+    <article class="claim">
+      <div class="figure">
+        <span class="value">$0</span>
+        <span class="unit">US dollars, total (state credits)</span>
+      </div>
+      <p class="subject">Tracy Apartments Phase I (Tracy): state tax credits recommended (none), from the Recommended credit row (state column)</p>
+      <p class="meta">2025 First Round, staff report dated June 18, 2025 · claim c6</p>
+      <blockquote>Recommended:                          $1,184,954                      $0</blockquote>
+      <p class="source">Source: <a href="https://www.treasurer.ca.gov/sites/default/files/ctcac/CA-25-013.pdf">CTCAC Project Staff Report CA-25-013 Tracy Apartments Phase I (2025)</a> <span class="sid">(ca-25-013)</span></p>
+      
+      <ul class="checks"><li>The quote contains 2 different numbers. Confirm this value is the one the subject describes.</li></ul>
+    </article>
+    <article class="claim">
+      <div class="figure">
+        <span class="value">$26,594,882</span>
+        <span class="unit">US dollars</span>
+      </div>
+      <p class="subject">Tracy Apartments Phase I (Tracy): total development cost, from the permanent financing TOTAL row (estimate at application)</p>
+      <p class="meta">At application, 2025 First Round · claim c8</p>
+      <blockquote>TOTAL                    $26,594,882</blockquote>
+      <p class="source">Source: <a href="https://www.treasurer.ca.gov/sites/default/files/ctcac/CA-25-013.pdf">CTCAC Project Staff Report CA-25-013 Tracy Apartments Phase I (2025)</a> <span class="sid">(ca-25-013)</span></p>
+      
+      
+    </article>
+    <article class="claim">
+      <div class="figure">
+        <span class="value">$7,126,766</span>
+        <span class="unit">US dollars per year (federal 4% credits)</span>
+      </div>
+      <p class="subject">Berryessa Family Apartments (San Jose): annual federal 4% tax credits recommended by CTCAC/CDLAC staff (recommendation, not a confirmed award)</p>
+      <p class="meta">Staff report dated April 8, 2025 · claim c9</p>
+      <blockquote>Berryessa Family Apartments, located at 1655 Berryessa Road in San Jose on a 2.35 acre site, requested and is being recommended for a reservation of $7,126,766 in annual federal tax credits and $69,000,000 of tax-exempt bond cap to finance the new construction of 260 units of housing, consisting of 257 restricted rental units and 3 unrestricted manager&#x27;s units.</blockquote>
+      <p class="source">Source: <a href="https://www.treasurer.ca.gov/sites/default/files/ctcac/CA-25-426.pdf">CTCAC Project Staff Report CA-25-426 Berryessa Family Apartments (2025)</a> <span class="sid">(ca-25-426)</span></p>
+      
+      <ul class="checks"><li>The quote contains 7 different numbers. Confirm this value is the one the subject describes.</li></ul>
+    </article>
+    <article class="claim">
+      <div class="figure">
+        <span class="value">$69,000,000</span>
+        <span class="unit">US dollars (tax-exempt bond cap)</span>
+      </div>
+      <p class="subject">Berryessa Family Apartments (San Jose): tax-exempt bond cap recommended (bond allocation, not tax credits; recommendation, not a confirmed award)</p>
+      <p class="meta">Staff report dated April 8, 2025 · claim c10</p>
+      <blockquote>Berryessa Family Apartments, located at 1655 Berryessa Road in San Jose on a 2.35 acre site, requested and is being recommended for a reservation of $7,126,766 in annual federal tax credits and $69,000,000 of tax-exempt bond cap to finance the new construction of 260 units of housing, consisting of 257 restricted rental units and 3 unrestricted manager&#x27;s units.</blockquote>
+      <p class="source">Source: <a href="https://www.treasurer.ca.gov/sites/default/files/ctcac/CA-25-426.pdf">CTCAC Project Staff Report CA-25-426 Berryessa Family Apartments (2025)</a> <span class="sid">(ca-25-426)</span></p>
+      
+      <ul class="checks"><li>The quote contains 7 different numbers. Confirm this value is the one the subject describes.</li></ul>
+    </article>
+    <article class="claim">
+      <div class="figure">
+        <span class="value">$0</span>
+        <span class="unit">US dollars, total (state credits)</span>
+      </div>
+      <p class="subject">Berryessa Family Apartments (San Jose): state tax credits recommended (none), from the Recommended credit row (state column)</p>
+      <p class="meta">Staff report dated April 8, 2025 · claim c13</p>
+      <blockquote>Recommended:                          $7,126,766                       $0</blockquote>
+      <p class="source">Source: <a href="https://www.treasurer.ca.gov/sites/default/files/ctcac/CA-25-426.pdf">CTCAC Project Staff Report CA-25-426 Berryessa Family Apartments (2025)</a> <span class="sid">(ca-25-426)</span></p>
+      
+      <ul class="checks"><li>The quote contains 2 different numbers. Confirm this value is the one the subject describes.</li></ul>
+    </article>
+    <article class="claim">
+      <div class="figure">
+        <span class="value">$155,291,791</span>
+        <span class="unit">US dollars</span>
+      </div>
+      <p class="subject">Berryessa Family Apartments (San Jose): total development cost, from the permanent financing TOTAL row (estimate at application)</p>
+      <p class="meta">At application, staff report dated April 8, 2025 · claim c14</p>
+      <blockquote>TOTAL                                $155,291,791</blockquote>
+      <p class="source">Source: <a href="https://www.treasurer.ca.gov/sites/default/files/ctcac/CA-25-426.pdf">CTCAC Project Staff Report CA-25-426 Berryessa Family Apartments (2025)</a> <span class="sid">(ca-25-426)</span></p>
+      
+      
+    </article>
+  </section>
+  <section>
+    <h2><span class="qnum">Q4</span> What types of affordable housing projects are being developed (new construction versus rehabilitation, number of units, and geographic distribution)?</h2>
+    <p class="count">4 verified claims</p>
+    
+    <article class="claim">
+      <div class="figure">
+        <span class="value">65</span>
+        <span class="unit">affordable units</span>
+      </div>
+      <p class="subject">Turning Point Commons (Chico): affordable units to be rehabilitated (rehabilitation, not new construction; excludes the manager&#x27;s unit)</p>
+      <p class="meta">2025 Second Round, staff report dated September 30, 2025 · claim c3</p>
+      <blockquote>Turning Point Commons, located at 25 Via La Paz in Chico, requested and is being recommended for a reservation of $2,500,000 in annual federal tax credits and $8,333,333 in total state tax credits to finance the rehabilitation of 65 units of housing serving tenants with rents affordable to households earning 30%-80% of area median income (AMI).</blockquote>
+      <p class="source">Source: <a href="https://www.treasurer.ca.gov/sites/default/files/ctcac/CA-25-087.pdf">CTCAC Project Staff Report CA-25-087 Turning Point Commons (2025)</a> <span class="sid">(ca-25-087)</span></p>
+      
+      <ul class="checks"><li>The quote contains 6 different numbers. Confirm this value is the one the subject describes.</li></ul>
+    </article>
+    <article class="claim">
+      <div class="figure">
+        <span class="value">54</span>
+        <span class="unit">affordable units</span>
+      </div>
+      <p class="subject">Tracy Apartments Phase I (Tracy): senior units to be newly constructed (new construction; affordable units, excludes the manager&#x27;s unit)</p>
+      <p class="meta">2025 First Round, staff report dated June 18, 2025 · claim c7</p>
+      <blockquote>Tracy Apartments Phase I, located at 301 West Street in Tracy, requested and is being recommended for a reservation of $1,184,954 in annual federal tax credits to finance the new construction of 54 units of housing serving seniors with rents affordable to households earning 30%-50% of area median income (AMI).</blockquote>
+      <p class="source">Source: <a href="https://www.treasurer.ca.gov/sites/default/files/ctcac/CA-25-013.pdf">CTCAC Project Staff Report CA-25-013 Tracy Apartments Phase I (2025)</a> <span class="sid">(ca-25-013)</span></p>
+      
+      <ul class="checks"><li>The quote contains 5 different numbers. Confirm this value is the one the subject describes.</li></ul>
+    </article>
+    <article class="claim">
+      <div class="figure">
+        <span class="value">260</span>
+        <span class="unit">total units</span>
+      </div>
+      <p class="subject">Berryessa Family Apartments (San Jose): total units to be newly constructed (all units, including 3 manager&#x27;s units)</p>
+      <p class="meta">Staff report dated April 8, 2025 · claim c11</p>
+      <blockquote>Berryessa Family Apartments, located at 1655 Berryessa Road in San Jose on a 2.35 acre site, requested and is being recommended for a reservation of $7,126,766 in annual federal tax credits and $69,000,000 of tax-exempt bond cap to finance the new construction of 260 units of housing, consisting of 257 restricted rental units and 3 unrestricted manager&#x27;s units.</blockquote>
+      <p class="source">Source: <a href="https://www.treasurer.ca.gov/sites/default/files/ctcac/CA-25-426.pdf">CTCAC Project Staff Report CA-25-426 Berryessa Family Apartments (2025)</a> <span class="sid">(ca-25-426)</span></p>
+      
+      <ul class="checks"><li>The quote contains 7 different numbers. Confirm this value is the one the subject describes.</li></ul>
+    </article>
+    <article class="claim">
+      <div class="figure">
+        <span class="value">257</span>
+        <span class="unit">affordable units</span>
+      </div>
+      <p class="subject">Berryessa Family Apartments (San Jose): restricted (affordable) rental units</p>
+      <p class="meta">Staff report dated April 8, 2025 · claim c12</p>
+      <blockquote>Berryessa Family Apartments, located at 1655 Berryessa Road in San Jose on a 2.35 acre site, requested and is being recommended for a reservation of $7,126,766 in annual federal tax credits and $69,000,000 of tax-exempt bond cap to finance the new construction of 260 units of housing, consisting of 257 restricted rental units and 3 unrestricted manager&#x27;s units.</blockquote>
+      <p class="source">Source: <a href="https://www.treasurer.ca.gov/sites/default/files/ctcac/CA-25-426.pdf">CTCAC Project Staff Report CA-25-426 Berryessa Family Apartments (2025)</a> <span class="sid">(ca-25-426)</span></p>
+      
+      <ul class="checks"><li>The quote contains 7 different numbers. Confirm this value is the one the subject describes.</li></ul>
+    </article>
+  </section>
+  <section>
+    <h2><span class="qnum">Q5</span> Which projects have recently received funding awards, and what can available public records tell us about their development status?</h2>
+    <p class="count">1 verified claim</p>
+    
+    <article class="claim">
+      <div class="figure">
+        <span class="value">2028</span>
+        <span class="unit">year</span>
+      </div>
+      <p class="subject">Berryessa Family Apartments (San Jose): expected construction completion year (a projection at the time of the staff report, not current status)</p>
+      <p class="meta">Projection as of April 8, 2025 · claim c15</p>
+      <blockquote>The construction is expected to begin in October 2025 and be completed in January 2028.</blockquote>
+      <p class="source">Source: <a href="https://www.treasurer.ca.gov/sites/default/files/ctcac/CA-25-426.pdf">CTCAC Project Staff Report CA-25-426 Berryessa Family Apartments (2025)</a> <span class="sid">(ca-25-426)</span></p>
+      
+      <ul class="checks"><li>The quote contains 2 different numbers. Confirm this value is the one the subject describes.</li><li>The quote mentions more than one year. Confirm the period.</li></ul>
+    </article>
+  </section>
+  <section>
+    <h2>Held claims</h2>
+    <p class="count">Claims that failed the checker. They are not counted above.</p>
+    <p class="empty">No held claims. Every claim passed the checker.</p>
+  </section>
+  <footer>
+    <h2>Sources</h2>
+    <ul><li><a href="https://website-prod.treasurer.ca.gov/sites/default/files/ctcac/2025-Annual-Report.pdf">2025 Annual Report of the California Tax Credit Allocation Committee (CTCAC)</a> <span class="sid">(2025-annual-report, added 2026-10-14)</span></li><li><a href="https://www.treasurer.ca.gov/sites/default/files/ctcac/CA-25-087.pdf">CTCAC Project Staff Report CA-25-087 Turning Point Commons (2025)</a> <span class="sid">(ca-25-087, added 2026-10-14)</span></li><li><a href="https://www.treasurer.ca.gov/sites/default/files/ctcac/CA-25-013.pdf">CTCAC Project Staff Report CA-25-013 Tracy Apartments Phase I (2025)</a> <span class="sid">(ca-25-013, added 2026-10-14)</span></li><li><a href="https://www.treasurer.ca.gov/sites/default/files/ctcac/CA-25-426.pdf">CTCAC Project Staff Report CA-25-426 Berryessa Family Apartments (2025)</a> <span class="sid">(ca-25-426, added 2026-10-14)</span></li></ul>
+    <p class="note">Built 2026-10-14 by build_page.py from claims.json
+    and REPORT.md. Rebuild after every <code>python verify.py</code>.</p>
+  </footer>
+</main>
+</body>
+</html>

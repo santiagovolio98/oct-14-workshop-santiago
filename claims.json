@@ -1,1 +1,152 @@
-[]
+[
+  {
+    "claim_id": "c1",
+    "source_id": "ca-25-087",
+    "subject": "Turning Point Commons (Chico): annual federal tax credits recommended by CTCAC staff (recommendation, not a confirmed award)",
+    "value": "2,500,000",
+    "unit": "US dollars per year (federal 9% credits)",
+    "period": "2025 Second Round, staff report dated September 30, 2025",
+    "quote": "Turning Point Commons, located at 25 Via La Paz in Chico, requested and is being recommended for a reservation of $2,500,000 in annual federal tax credits and $8,333,333 in total state tax credits to finance the rehabilitation of 65 units of housing serving tenants with rents affordable to households earning 30%-80% of area median income (AMI).",
+    "question": 3
+  },
+  {
+    "claim_id": "c2",
+    "source_id": "ca-25-087",
+    "subject": "Turning Point Commons (Chico): total state tax credits recommended by CTCAC staff (recommendation, not a confirmed award)",
+    "value": "8,333,333",
+    "unit": "US dollars, total (state credits, not annual)",
+    "period": "2025 Second Round, staff report dated September 30, 2025",
+    "quote": "Turning Point Commons, located at 25 Via La Paz in Chico, requested and is being recommended for a reservation of $2,500,000 in annual federal tax credits and $8,333,333 in total state tax credits to finance the rehabilitation of 65 units of housing serving tenants with rents affordable to households earning 30%-80% of area median income (AMI).",
+    "question": 3
+  },
+  {
+    "claim_id": "c3",
+    "source_id": "ca-25-087",
+    "subject": "Turning Point Commons (Chico): affordable units to be rehabilitated (rehabilitation, not new construction; excludes the manager's unit)",
+    "value": "65",
+    "unit": "affordable units",
+    "period": "2025 Second Round, staff report dated September 30, 2025",
+    "quote": "Turning Point Commons, located at 25 Via La Paz in Chico, requested and is being recommended for a reservation of $2,500,000 in annual federal tax credits and $8,333,333 in total state tax credits to finance the rehabilitation of 65 units of housing serving tenants with rents affordable to households earning 30%-80% of area median income (AMI).",
+    "question": 4
+  },
+  {
+    "claim_id": "c4",
+    "source_id": "ca-25-087",
+    "subject": "Turning Point Commons (Chico): total development cost, from the permanent financing TOTAL row (estimate at application)",
+    "value": "38,025,468",
+    "unit": "US dollars",
+    "period": "At application, 2025 Second Round",
+    "quote": "TOTAL                      $38,025,468",
+    "question": 3
+  },
+  {
+    "claim_id": "c5",
+    "source_id": "ca-25-013",
+    "subject": "Tracy Apartments Phase I (Tracy): annual federal tax credits recommended by CTCAC staff (recommendation, not a confirmed award)",
+    "value": "1,184,954",
+    "unit": "US dollars per year (federal 9% credits)",
+    "period": "2025 First Round, staff report dated June 18, 2025",
+    "quote": "Tracy Apartments Phase I, located at 301 West Street in Tracy, requested and is being recommended for a reservation of $1,184,954 in annual federal tax credits to finance the new construction of 54 units of housing serving seniors with rents affordable to households earning 30%-50% of area median income (AMI).",
+    "question": 3
+  },
+  {
+    "claim_id": "c6",
+    "source_id": "ca-25-013",
+    "subject": "Tracy Apartments Phase I (Tracy): state tax credits recommended (none), from the Recommended credit row (state column)",
+    "value": "0",
+    "unit": "US dollars, total (state credits)",
+    "period": "2025 First Round, staff report dated June 18, 2025",
+    "quote": "Recommended:                          $1,184,954                      $0",
+    "question": 3
+  },
+  {
+    "claim_id": "c7",
+    "source_id": "ca-25-013",
+    "subject": "Tracy Apartments Phase I (Tracy): senior units to be newly constructed (new construction; affordable units, excludes the manager's unit)",
+    "value": "54",
+    "unit": "affordable units",
+    "period": "2025 First Round, staff report dated June 18, 2025",
+    "quote": "Tracy Apartments Phase I, located at 301 West Street in Tracy, requested and is being recommended for a reservation of $1,184,954 in annual federal tax credits to finance the new construction of 54 units of housing serving seniors with rents affordable to households earning 30%-50% of area median income (AMI).",
+    "question": 4
+  },
+  {
+    "claim_id": "c8",
+    "source_id": "ca-25-013",
+    "subject": "Tracy Apartments Phase I (Tracy): total development cost, from the permanent financing TOTAL row (estimate at application)",
+    "value": "26,594,882",
+    "unit": "US dollars",
+    "period": "At application, 2025 First Round",
+    "quote": "TOTAL                    $26,594,882",
+    "question": 3
+  },
+  {
+    "claim_id": "c9",
+    "source_id": "ca-25-426",
+    "subject": "Berryessa Family Apartments (San Jose): annual federal 4% tax credits recommended by CTCAC/CDLAC staff (recommendation, not a confirmed award)",
+    "value": "7,126,766",
+    "unit": "US dollars per year (federal 4% credits)",
+    "period": "Staff report dated April 8, 2025",
+    "quote": "Berryessa Family Apartments, located at 1655 Berryessa Road in San Jose on a 2.35 acre site, requested and is being recommended for a reservation of $7,126,766 in annual federal tax credits and $69,000,000 of tax-exempt bond cap to finance the new construction of 260 units of housing, consisting of 257 restricted rental units and 3 unrestricted manager's units.",
+    "question": 3
+  },
+  {
+    "claim_id": "c10",
+    "source_id": "ca-25-426",
+    "subject": "Berryessa Family Apartments (San Jose): tax-exempt bond cap recommended (bond allocation, not tax credits; recommendation, not a confirmed award)",
+    "value": "69,000,000",
+    "unit": "US dollars (tax-exempt bond cap)",
+    "period": "Staff report dated April 8, 2025",
+    "quote": "Berryessa Family Apartments, located at 1655 Berryessa Road in San Jose on a 2.35 acre site, requested and is being recommended for a reservation of $7,126,766 in annual federal tax credits and $69,000,000 of tax-exempt bond cap to finance the new construction of 260 units of housing, consisting of 257 restricted rental units and 3 unrestricted manager's units.",
+    "question": 3
+  },
+  {
+    "claim_id": "c11",
+    "source_id": "ca-25-426",
+    "subject": "Berryessa Family Apartments (San Jose): total units to be newly constructed (all units, including 3 manager's units)",
+    "value": "260",
+    "unit": "total units",
+    "period": "Staff report dated April 8, 2025",
+    "quote": "Berryessa Family Apartments, located at 1655 Berryessa Road in San Jose on a 2.35 acre site, requested and is being recommended for a reservation of $7,126,766 in annual federal tax credits and $69,000,000 of tax-exempt bond cap to finance the new construction of 260 units of housing, consisting of 257 restricted rental units and 3 unrestricted manager's units.",
+    "question": 4
+  },
+  {
+    "claim_id": "c12",
+    "source_id": "ca-25-426",
+    "subject": "Berryessa Family Apartments (San Jose): restricted (affordable) rental units",
+    "value": "257",
+    "unit": "affordable units",
+    "period": "Staff report dated April 8, 2025",
+    "quote": "Berryessa Family Apartments, located at 1655 Berryessa Road in San Jose on a 2.35 acre site, requested and is being recommended for a reservation of $7,126,766 in annual federal tax credits and $69,000,000 of tax-exempt bond cap to finance the new construction of 260 units of housing, consisting of 257 restricted rental units and 3 unrestricted manager's units.",
+    "question": 4
+  },
+  {
+    "claim_id": "c13",
+    "source_id": "ca-25-426",
+    "subject": "Berryessa Family Apartments (San Jose): state tax credits recommended (none), from the Recommended credit row (state column)",
+    "value": "0",
+    "unit": "US dollars, total (state credits)",
+    "period": "Staff report dated April 8, 2025",
+    "quote": "Recommended:                          $7,126,766                       $0",
+    "question": 3
+  },
+  {
+    "claim_id": "c14",
+    "source_id": "ca-25-426",
+    "subject": "Berryessa Family Apartments (San Jose): total development cost, from the permanent financing TOTAL row (estimate at application)",
+    "value": "155,291,791",
+    "unit": "US dollars",
+    "period": "At application, staff report dated April 8, 2025",
+    "quote": "TOTAL                                $155,291,791",
+    "question": 3
+  },
+  {
+    "claim_id": "c15",
+    "source_id": "ca-25-426",
+    "subject": "Berryessa Family Apartments (San Jose): expected construction completion year (a projection at the time of the staff report, not current status)",
+    "value": "2028",
+    "unit": "year",
+    "period": "Projection as of April 8, 2025",
+    "quote": "The construction is expected to begin in October 2025 and be completed in January 2028.",
+    "question": 5
+  }
+]
