@@ -1,0 +1,983 @@
+2025 ANNUAL
+REPORT
+
+California Tax Credit Allocation Committee
+
+ Contact Us: (916) 654-6340
+ Connect With Us: www.treasurer.ca.gov/ctcac
+                                                                                     2
+
+TABLE OF CONTENTS
+
+ To Governor Newsom and the California State Legislature: ____________ 3
+ California Tax Credit Allocation Committee __________________________ 4
+
+    Voting Committee Members ___________________________________________________ 4
+    Advisory Committee Members__________________________________________________ 4
+    CTCAC Committee Staff _______________________________________________________ 5
+ Executive Summary _________________________________________________ 6
+ 2025 CTCAC Fast Facts ______________________________________________ 8
+ 9% Low-Income Housing Tax Credits _________________________________ 9
+ 4% Low-Income Housing Tax Credits ________________________________ 13
+ State Low-Income Housing Tax Credits ______________________________ 17
+ State Historic Preservation Tax Credit ________________________________ 19
+ CTCAC Compliance _______________________________________________ 20
+ AB 2873: Housing Supplier Reporting ________________________________ 22
+ Looking Forward ___________________________________________________ 23
+    Federal Changes _____________________________________________________________23
+    Demand _____________________________________________________________________23
+    Annual Rent Cap Policy _______________________________________________________24
+    Affordable Housing Preservation _______________________________________________24
+ CTCAC Historic 9% Data____________________________________________ 25
+ CTCAC Historic 4% Data____________________________________________ 26
+
+Front: Completed in 2025, Prospera at Homestead is a newly completed 108-unit affordable housing community in Dixon, developed as part of the
+Homestead Master Plan ­ a major component of the broader Southwest Dixon Specific Plan. The community serves individuals and families earning up
+to 60% AMI and includes amenities such as a resident services coordinator, after-school programming, playground, outdoor BBQ and recreation areas,
+and dog park, and clubhouse. Directly next door, Silvey Villas at Homestead provides 72 affordable homes for seniors. The two communities were
+intentionally designed as a multi-generational housing hub, connected through walkways and shared outdoor activity spaces to encourage
+interaction and community building across age groups. The development received tax-exempt bonds from CDLAC's Rural Pool and federal 4% and
+enhanced state tax credits from CTCAC. (Photo Credit: Hampstead Development Partners, Inc. and Crestone Development)
+                                                                                    3
+
+         TO GOVERNOR NEWSOM AND THE
+           CALIFORNIA STATE LEGISLATURE:
+
+Requirements
+
+Section 50199.15 (a) of the California Health and Safety Code requires the California Tax
+Credit Allocation Committee (CTCAC) to submit an annual report of the prior year's activities
+to the California State Legislature, reporting on the following information:
+
+    · The total amount of lower-income housing credits allocated by CTCAC;
+    · The total number of lower-income units that are, or will be, assisted by the credits
+
+         occupied by households whose income is 60 percent or less of area median gross
+         income;
+    · The amount of credits allocated to each project, other financing available to the
+         project, and the number of units that are, or will be, occupied by households whose
+         income is 60 percent or less of area median gross income; and,
+    · Sufficient information to identify the project.
+
+The annual report must include an aggregation of information submitted annually by housing
+sponsors for all projects that received an allocation in previous years, specifying the following:
+
+    · Information sufficient to identify the project;
+    · The total number of units in the project; and,
+    · The total number of units assisted by the credit that are required to be occupied by
+
+         households whose income is 60 percent or less of the area median gross income as a
+         condition of receiving the credit.
+
+Finally, the annual report to the Legislature must include any recommendations for
+improvement in the low-income housing tax credit and, beginning in 2025, an aggregation
+of the information submitted to CTCAC pursuant to AB 2873 (Jones-Sawyer, 2022).
+
+                              This entire report can also be viewed online:
+                            https://treasurer.ca.gov/ctcac/annual-reports
+                                                                                    4
+
+CALIFORNIA TAX CREDIT ALLOCATION COMMITTEE
+
+Voting Committee Members
+
+Fiona Ma, CPA, Chair
+State Treasurer
+Joe Stephenshaw
+Director, Department of Finance
+Malia M. Cohen
+State Controller
+Tony Sertich
+Executive Director, California Housing Finance Agency
+Gustavo Velasquez
+Director, Department of Housing and Community Development
+
+Advisory Committee Members
+
+Tyller Williamson
+City Representative
+Michelle Whitman
+County Representative
+
+  MISSION: To incentivize private investment in projects that support the
+ development of safe and quality affordable housing that contributes to
+  the economic vitality of California through the allocation of tax credits.
+                                                                                           5
+
+CTCAC Staff
+
+Marina Wiant, Executive Director           Elizabeth Gutierrez, Compliance Division Chief
+Anthony Zeto, Deputy Director              Emilio Contreras, Compliance Section Chief
+                                           Mayra Lozano, Compliance Section Chief
+ Joe Boniwell, Senior Counsel              Phyllis Blanton, Program Manager
+ Carmen Doonan, Development Section Chief  Tara Boynton, Program Manager
+ Ashwin Mehta, Development Section Chief   Richard Fujitani, Program Manager
+ Sarah Gullikson, Program Manager          Ted Johnson, Program Manager
+ Marisol Parks, Program Manager            Quang Le, Program Manager
+ Diane SooHoo, Program Manager             David McDaniels, Program Manager
+ Sopida Steinwert, Program Manager
+ Lucy Vang, Program Manager
+ Tommy Shim, Research Data Specialist
+
+Ashley Alexander       Michelle Fadenipo      Noeh Nazareno
+Maliah Alexander       Michelle Flock         Alex Ninh
+Brett Andersen         Bahareh Haft Shayjani  Jacob Paixao
+Salvatore Angrisani    Sardar Habib           Dillon Paule
+Jaycee Baca            Matthew Hansen         Martin Presley
+Mena Barase            Frank Harper           JoAnn Rosen
+Ruben Barcelo          Joshua Helmich         Jeanette Sanchez
+Stephen Bellotti       Andy Her               Jahan Tahaei
+Gabriel Bursk          Jerry Ingram           Kevin Thai
+Rachel Bursk           Noemy Iniguez          Marilynn Thao
+Nina Chambers          Rikki Jenkins          Eric Turlak
+Shavnil Chand          Elaine Johnson         Jewelry Vang
+Cynthia Compton        Cameron Kalagher       Julio Villanueva
+Jacob Couch            Ashley Lambert         Gloria Witherow
+Michael Couzens        John Le                Dua Xiong
+Kimberly Desch-Nilson  Cheng Lee              Jerry Yang
+Jyotika Devi           Tricia Mitchell        Sabrina Yang
+Justin Espanol         Pheng Moua             Andrew Yu
+                                                                                                                        6
+
+EXECUTIVE SUMMARY
+
+Since the program's inception in 1987, CTCAC has assisted more than 550,000 affordable
+units with tax credit awards, serving over 1 million lower-income households, supporting
+nearly 300,000 jobs per year, and generating over $12 billion in tax revenue and $3.5 billion in
+wages and business income per year.
+
+Despite ongoing challenges facing the housing industry and the state ­ inflation, high interest
+rates, natural disasters ­ CTCAC continues to receive a large volume of shovel-ready project
+applications and had to turn away more than half due to limited federal 9% Low Income
+Housing Tax Credits (LIHTCs) and state Low-Income Housing Tax Credits (state LIHTCs).
+
+LIHTCs are available for new construction projects or existing properties undergoing
+rehabilitation. Two types of federal tax credits are available and are generally referred to as
+nine percent (9%) and four percent (4%) LIHTCs. Each number refers to the approximate
+percentage that is multiplied against a project's requested "qualified basis" to determine the
+maximum amount of annual federal credits CTCAC may award the project. While low-
+income housing tax credits are referred to in annual terms, each federal LIHTC award earns
+investors 10 years of annual federal tax credits.
+
+In 2025, CTCAC awarded $115.5 million in
+
+competitive annual federal 9% LIHTCs to 58
+
+proposed housing projects, totaling 2,953
+
+lower-income units and $639.9 million in
+
+annual federal 4% LIHTCs to 195 proposed
+
+housing projects, totaling 25,476 lower-
+
+income units. Included with the 9% and 4%
+
+federal tax credit awards listed above,
+
+CTCAC provided 17 of these projects with
+
+statutory state tax credit awards totaling   Awarded CDLAC bonds and 4% LIHTCs in December 2024, Amanda
+$115.3 million and provided 44 of these      Villas in Southeast Los Angeles County broke ground in fall 2025. It will
+projects with competitive state tax credits  offer 140 apartment homes for seniors earning below 50% AMI and will
+                                             feature a state-of-the-art health center, which will provide
+                                             comprehensive medical, dental and behavioral health services to all
+                                             residents. It is scheduled to open in Winter 2027.
+
+totaling $512.6 million. State credits are instrumental in providing additional equity to projects
+
+when federal tax credits fall short of a project's needed financing, and state tax credit
+                                                                                    7
+
+awards permit federal credits to be stretched across more projects, resulting in more housing
+being built.
+
+In addition to awarding LIHTCs, CTCAC is responsible for ongoing compliance monitoring of
+California's tax credit housing portfolio. In 2025, CTCAC staff physically monitored 1,241 tax
+credit projects and 16,081 units. Monitoring visits include reviewing files and physically
+inspecting the units and common areas. Internal Revenue Code Section 42 and state
+statutes require state allocating agencies to monitor occupancy compliance at least once
+every three years throughout the initial 15-year credit period and every five years for the
+remaining 40-year term of the regulatory agreement.
+
+In 2025, CTCAC staff held a total of 5 compliance workshops virtually to stakeholders,
+including owners, tax credit investors and property managers, to provide updates on CTCAC
+and the program generally. Over 30 hours of training was provided by CTCAC staff to the 979
+participants who attended these workshops.
+
+New for 2025, CTCAC awarded 12 projects a total of $50,000,000 in State Historic
+Rehabilitation Tax Credits.
+                                                                                              8
+
+2025 CTCAC FAST FACTS
+
+CTCAC administers the federal and state LIHTC program to
+encourage private investment in affordable rental housing for households
+meeting certain income requirements. In addition to allocating these
+resources, CTCAC provides federal compliance monitoring for the initial 15
+years and then continues auditing and monitoring projects throughout the
+regulatory agreement period, in most cases for a total of 55 years.
+
+   9% Program               4% Program
+
+ $115,545,376             $639,918,711
+
+     Federal 9% LIHTCs       Federal 4% LIHTCs
+           Allocated               Allocated
+
+ $115,271,800             $512,589,281
+
+  State LIHTCs Allocated  State LIHTCs Allocated
+
+         58                      195
+
+     Projects Awarded        Projects Awarded
+
+       2,953                   25,476
+
+Lower-Income Units to be  Lower-Income Units to
+          Developed            be Developed
+
+CTCAC development staff issued 1,413 IRS Forms 8609 to projects that were placed in service.
+
+CTCAC compliance staff physically monitored 1,241 tax credit projects and 16,081 units and
+offered more than 30 hours of training, which was attended by 979 participants statewide.
+                                                                                    9
+
+9% LOW-INCOME HOUSING TAX CREDITS
+
+The U.S. Census Bureau reported California's estimated July 1, 2024 population as 39,431,263
+to be used for 2025 and a per capita rate of $3.00. This resulted in a 2025 Housing Credit
+Ceiling of $118,293,789 in annual federal 9% LIHTCs. In terms of credits, this is a $5,294,728
+increase in federal 9% LIHTCs from the 2024 State Housing Credit Ceiling. When accounting
+for $931,976 in forward committed 2024 federal 9% LIHTCs and $98,101 in surplus credits,
+CTCAC had a total of $117,459,914 in federal 9% LIHTCs available for allocation.
+
+In 2025, CTCAC allocated $115,545,376 federal 9% LIHTCs to 58 projects, totaling 2,953 lower-
+income units. The IRS released the 2025 National Pool allocations in late December,
+distributing $13.1 million in unused LIHTCs to 25 states, the highest amount since 1995. CTCAC
+was allocated in $2,389,455 resulting in a surplus of $1,943,714 for use in 2026.
+
+Turning Point Commons is an existing 66 unit affordable complex in Chico that was built in 1982 and is comprised of 18 buildings. One 5-unit building is
+currently uninhabitable due to a fire. With the existing regulatory agreement set to expire in 2027, this property received federal 9% tax credits in 2025 in
+the At Risk set-aside. The award will ensure full rehabilitation of uninhabitable units and preserve affordable for another 55 years. (Photo Credit:
+Community Housing Improvement Program)
+
+Demand and Applications
+
+Applicants submitted a total of 141 applications for federal 9% LIHTCs in 2025, with 58
+projects, or 41%, receiving a tax credit allocation.
+
+   $284,782,854              $115,545,376                 58                2,953
+
+Federal 9% LIHTCs Requested  Federal 9% LIHTCs Allocated  Projects Awarded  Lower-Income Units to
+                                                                                 be Developed
+                                                                                                               10
+
+                 9%9%ApApplipclaictiaotnioSnuSbumbimssisosniosn2s021021-22-0220425
+
+25500   22336 6
+
+220000           191090                                           205 205                         172
+150                     171373171070 160160167167                          182 182                     141
+150
+                                                        136                         152      172
+                                                    136 131                              152
+
+                                                             131
+
+        102                                                          103       106
+                                                                103              98
+100     102       84    83    89          82                              106            98
+100              84   83    89         82                    68                               57
+                                              64    70                                            55
+ 50
+                                              64 70 68                               6527 55
+
+50                                                                             62                          58
+
+0
+      2012 2013 2014 2015 2016 2017 2018 2019 2020 2021 2022 2023 2024
+
+0
+     2012 2013 2014 2015 2016 A2w0a17rds2018 20A1p9pl2ic02a0nts2021 2022 2023 2024 2025
+
+                                       Awards           Applicants
+
+Housing Types
+
+State regulations require all 9% tax credit                  2025 9% Lower-Income Units
+applicants to compete as one of five                                 by Housing Type
+housing types: large family (3-bedroom or
+
+larger units accounting for at least 25% of
+
+total project units), special needs (e.g.,                        Special           At-Risk,
+persons with developmental, physical, or                          Needs                8%
+mental health disabilities, physical abuse
+                                                                    31%
+
+survivors, individuals experiencing                                                               Large
+homelessness, or persons with chronic                                                             Family,
+illness), single room occupancy (SRO) (90%
+of all units shall be efficiency or studio units),                                                  43%
+
+                                                                    Seniors
+                                                                      18%
+
+existing projects "At-Risk" of losing
+
+affordability, and senior projects. CTCAC
+
+uses the housing type tie breaker to ensure
+
+that no single housing type will exceed the percentage goals where other housing type
+
+maximums are not yet reached.
+                                                                                    11
+
+Set-Asides
+
+Consistent with federal and state law, CTCAC sets aside ten percent (10%) of the available
+9% tax credits for non-profit entities. Within the non-profit set-aside, CTCAC regulations
+prioritize projects that designate at least 50% of the lower-income units for homeless
+households. State law also provides that 20% of federal credits be set aside for allocation to
+rural projects. CTCAC regulations provide for a 4% set-aside for special needs developments,
+a 5% set-aside for affordable housing at risk of losing affordability, and that 10% of the rural
+set aside be available for projects on land owned by a federally-recognized Indian tribe.
+
+                                                                                          Goldfinch at Mulberry Gardens in Riverside received CDLAC bonds and 4% LIHTCs in
+                                                                                          2024 and broke ground in Winter 2025. The 149-unit affordable family development is
+                                                                                          being built alongside a senior development, Sparrow at Mulberry Gardens, which
+                                                                                          received federal 9% LIHTCs in 2023, and will share some community spaces. Sparrow
+                                                                                          and Goldfinch are anchored by the pedestrian paseo between the two buildings,
+                                                                                          which includes seating and gathering spaces and a walking loop running along the
+                                                                                          property edges. (Photo Credit: Eden Housing)
+
+Geographic Apportionment
+
+The balance of the federal 9% LIHTCs are available to 12 geographic regions. The
+percentages for each region are in the CTCAC regulations and the amounts available and
+published on the CTCAC website prior to each 9% round in a credit estimates document. The
+apportionment percentages were updated in 2013 and are based on the population of
+renters with high housing cost burden (gross rent 50% or more of household income) and then
+adjusted for costs using the RS Means City Cost Index.
+          Geographic Distribution of 9% Project Awardees                                              12
+
+18                                                                                                 800
+16                                                                                                 700
+14                                                                                                 600
+12                                                                                                 500
+10                                                                                                 400
+                                                                                                   300
+ 8                                                                                                 200
+ 6                                                                                                 100
+ 4                                                                                                 0
+ 2
+ 0
+
+                                                  NUMBER OF PROJECTS  LOW-INCOME UNITS
+
+Unit Distribution by Income Levels                                    9% Unit Distribution by
+                                                                           Income Levels
+In 2025, the 58 projects awarded federal 9%
+credits LIHTCs totaled 2,953 lower-income                             24.3% LI          32.2% ELI
+units. Of these, 952 units, or 32.2%, were
+targeted to extremely low-income                                      43.4% VLI
+households at income levels at or below 30%
+Area Median Income (AMI), 1,283 units, or
+43.4%, were targeted to very low-income
+households at income levels between 30%
+and 50% AMI, and 718 units, or 24.3%, were
+targeted to low-income households at
+income levels between 50% and 80% AMI.
+                                                                                    13
+
+4% LOW-INCOME HOUSING TAX CREDITS
+
+The federal 4% LIHTCs derive from a project's use of tax-exempt private activity bonds (PABs)
+allocated by the California Debt Limit Allocation Committee (CDLAC) and are limited only
+by the amount of bonds annually available in California. CTCAC and CDLAC analysts work
+collaboratively to review the bond and tax credit applications to ensure all federal and state
+requirements are met and that each project will contribute to the housing goals set by the
+State of California and the Treasurer's Office. The 4% applications at CTCAC are reviewed
+and scored competitively through the CDLAC scoring system. Only projects successful in the
+CDLAC competition will receive federal 4% LIHTCs.
+In July 2025, H.R. 1 was signed into law, which, among other things, permanently reduced the
+bond financing threshold from 50% to 25%. Practically speaking, this change will allow
+California to finance nearly double the amount of affordable housing using PABs and federal
+4% LIHTCs. California was the first state to begin implementing this change, with CDLAC and
+CTCAC adopting emergency regulations on August 5, just one month after the federal
+legislation was enacted.
+As a result of these swift changes, in 2025, CTCAC allocated $639,918,711 in federal 4% LIHTCs
+to 195 projects, totaling 25,476 lower-income units, over 10,000 more units than in 2024.
+
+Berryessa TOD, which received CDLAC bonds and federal 4% LIHTCs in 2025, is the first phase of the Berryessa BART Urban Village Plan ­ a
+comprehensive, multi-phase redevelopment initiative designed to create a vibrant, transit-rich, and pedestrian-friendly neighborhood centered
+around the Berryessa BART Station. Berryessa TOD will include 193 affordable units, 49 of which will be permanent supportive housing units for
+previously unhoused individuals or families with special needs. The site is one of several sites owned by Valley Transportation Authority (VTA) that
+are actively being converted from park-and-ride lots into affordable housing. (Photo credit: Affirmed Housing)
+                                                                                                                                                                   14
+
+CDLAC Tax-Exempt Private Activity Bonds
+
+As stated above, federal 4% LIHTCs are limited only by the number of PABs annually available
+in California. At CDLAC, projects co-applying for 4% LIHTCs compete in the Qualified
+Residential Rental Project (QRRP) pool. The U.S. Census Bureau reported California's
+estimated July 1, 2024 population as 39,431,263, to be used for 2025 PAB calculation, resulting
+in a 2025 bond state ceiling of $5,126,064,190. Combined with unallocated 2024 carryforward
+PABs, PABs, available for allocation in 2025 totaled $5,143,749,252. On January 15, 2025,
+CDLAC allocated $4,803,749,252 or 93% of volume cap to QRRP and established a
+competitive process for the 2025 program year.
+
+In 2025, CDLAC received a total of 385 applications, with 195 projects, or 51%, receiving an
+award of PABs and federal 4% LIHTCs.
+
+                        4% Application Submissions 2012-2025
+
+450
+
+400
+                                                                                                                                                              385
+
+                                                                                                              353
+350
+
+                                                                                                 310
+300
+
+                                                                                                               252
+
+250                                                                                                   211 224
+                                                      206
+
+200                                                                     184  181                                                      195
+
+                        151  187                                151                                   163
+
+150  112           121                                     123          155                                                  127 138
+          111                                                                                                    101
+                        132                                        135
+
+100       95 105                                           105
+
+     96
+
+50
+
+0
+      2012 2013 2014 2015 2016 2017 2018 2019 2020 2021 2022 2023 2024 2025
+
+                                                           Awards       Applicants
+
+CDLAC's competitive application process prioritizes new construction projects, funds pools
+and set-asides to further prioritize QRRP projects that meet state priorities and sets
+geographic apportionments, as outlined below.
+Non-Geographic Pools                                                          15
+   BIPOC
+   Preservation                                                    58%
+   Other Rehabilitation                                            5%
+   Rural ­ New Construction                                        13%
+   New Construction Set-Aside                                      5%
+        Homeless                                                   5%
+        ELI/VLI
+        CalHFA Mixed Income Program (MIP)                          25%
+                                                                   30%
+New Construction Geographic Apportionments                         17%
+   Coastal Region (Monterey, Napa, Orange, San Benito, San Diego,  39%
+   San Luis Obispo, Santa Barbara, Sonoma, and Ventura Counties)   21%
+   City of Los Angeles                                             17%
+   Balance of Los Angeles County                                   16%
+   Bay Area Region (Alameda, Contra Costa, Marin, San Francisco,   21%
+   San Mateo, Santa Clara, and Santa Cruz Counties)
+   Inland Region (Fresno, Imperial, Kern, Kings, Madera, Merced,   16%
+   Riverside, San Bernardino, Stanislaus, and Tulare Counties)
+   Northern Region (Butte, El Dorado, Placer, Sacramento, San      9%
+   Joaquin, Shasta, Solano, Sutter, Yuba, and Yolo Counties)       3%
+
+Supplemental Allocations
+                                                                                                       16
+
+                      Geographic Distribution of 4% Project Awardees                            7,000
+                                                                                                6,000
+40                                                                                              5,000
+                                                                                                4,000
+35                                                                                              3,000
+                                                                                                2,000
+30                                                                                              1,000
+                                                                                                0
+25
+
+20
+
+15
+
+10
+
+5
+
+0
+
+    Coastal  City of Los Balance of Bay Area Inland Region Northern  Rural
+
+    Region   Angeles Los Angeles Region       Region
+
+             County
+
+             NUMBER OF PROJECTS               LOW-INCOME UNITS
+
+Additionally, CDLAC's competitive application process prioritizes large family or special
+needs projects that are located in a "High" or "Highest Resource Area," as specified on the
+CTCAC/HCD Opportunity Map Area, with a goal of allocating 50% of resources to projects in
+these areas. In 2025, CDLAC awarded 85 projects (44%) located in "High" or "Highest
+Resource Areas."
+
+Unit Distribution by Income Levels            4% Unit Distribution by
+                                                    Income Level
+In 2025, the 195 projects awarded federal
+4% LIHTCs totaled 25,476 lower-income         52.5% LI
+units. Of these, 6,313 units, or 24.8%, were                                       24.8% ELI
+targeted to extremely low-income (ELI)
+households at income levels at or below                                              22.7% VLI
+30% AMI, 5,789 units, or 22.7%, were
+targeted to very low-income households
+(VLI) at income levels between 30% and
+50% AMI, and 13,374 units, or 52.5%, were
+targeted to low-income households (LI) at
+income levels between 50% and 80% AMI.
+                                                                                    17
+
+STATE LOW-INCOME HOUSING TAX CREDITS
+
+Recognizing the high cost of developing housing in California, the State Legislature created
+the state low-income housing tax credit (state LIHTC) program in 1987 to augment the
+federal LIHTC program. State LIHTCs are only available to projects that previously received, or
+are concurrently receiving, an allocation of federal LIHTCs. The 2025 state credit ceiling of
+$126,125,128 less $53,468,706 2024 in advance allocations in prior years resulted in an
+available amount of $72,656,422 for 2025. Of the annual statutory state credit ceiling, 15% is
+available to be combined with tax-exempt bond financed acquisition/rehabilitation projects
+applying for federal 4% LIHTCs and the remaining balance is allocated through the federal
+9% LIHTC geographic apportionments.
+The state also provides $500,000 in state farmworker tax credits annually, which was not
+allocated in 2025.
+In 2025, CTCAC allocated $124,722,178 in statutory state credits to 17 federal 9% LIHTC
+projects and 1 federal 4% acquisition/rehab LIHTC project, totaling 976 lower-income units.
+
+MOSA, a 387 unit affordable housing development in Elk Grove held its grand opening in 2025. Eight three-story and six four-story buildings make
+up the community along with learning centers, a fitness studio, courtyards and community lounges, recreation and play areas and surface
+parking. MOSA was one of the first projects financed from CDLAC's BIPOC pool, and received over $70 million in enhanced state tax credits.
+
+Since 2020, the state budget has provided an additional $500 million in state low-income
+housing tax credits (enhanced state LIHTCs) to be combined with federal 4% LIHTCs for new
+construction multifamily housing projects. The additional $500,000,000, plus a carry forward of
+$4,166,150 from 2024, totaled $504,166,150 in available enhanced state LIHTCs. In 2025, $100
+                                                                                            18
+
+million was set aside to be paired with projects receiving funding from the CalHFA Mixed
+Income Program and $25 million was set aside for farmworker housing.
+
+State enhanced LIHTCs continue to be highly competitive ­ 135 projects requested
+$1,363,501,288 ­ and CTCAC allocated $503,138,903 in enhanced state LIHTCs to 43 projects,
+totaling 5,140 lower-income units. Of these, two farmworker projects were awarded
+$24,414,826 enhanced state LIHTCs of the available $25 million, totaling 98 lower-income
+units.
+
+State Credits for 9%    State Credits for 4%     State Credits for
+        Projects             Acq/Rehab          New Construction
+                                Projects
+ $115,271,800                                       4% Projects
+                           $9,450,378
+                                                $503,138,903
+
+State LIHTCs Allocated  State LIHTCs Allocated  State LIHTCs Allocated
+
+17                      1                       43
+
+Projects Awarded        Projects Awarded        Projects Awarded
+
+870                     106                     5,140
+
+Lower-Income Units to   Lower-Income Units to   Lower-Income Units to
+     be Developed            be Developed            be Developed
+                                                                                    19
+
+STATE HISTORIC REHABILITATION TAX
+CREDIT
+
+Senate Bill 451 (Chapter 703, Statutes of 2019) established the State Historic Rehabilitation Tax
+Credit (SHRTC) program to allow a taxpayer that receives a tax credit allocation, subject to
+appropriation, to claim a credit against those taxes for each taxable year beginning on or
+after January 1, 2021, and before January 1, 2027, for the rehabilitation of certified historic
+structures. The state appropriated $50 million for the program in 2022, with $8 million set aside
+for taxpayers with qualified rehabilitation expenditures of less than $1 million for any other
+certified historic building that is not a qualified residence and $2 million for taxpayers with
+qualified rehabilitation expenditures for a certified historic structure that is a qualified
+residence. The remainder was made available on July 1, 2025, for taxpayers with qualified
+rehabilitation expenditures of more than $1 million for affordable housing projects that had
+previously applied and were next in line for funding.
+
+CTCAC administers the SHRTC in coordination with the Office of Historic Preservation (OHP)
+Division of the California State Parks. The Office of Administrative Law approved CTCAC's
+Regulations in 2024 and in January 2025, OHP opened applications for the credits. CTCAC
+allocated the credits on a first-come, first-served basis upon OHP's approval of a project's
+application.
+
+CTCAC awarded a total of 12 SHRTC projects in 2025, exhausting the $50 million available.
+
+     Qualified         Qualified         Qualified
+ Rehabilitation     Rehabilitation      Residential
+Expenditures of    Expenditures of    Rehabilitation
+More Than $1m      Less Than $1m
+                                      $129,510
+$49,670,490         $200,000
+
+Credits Allocated  Credits Allocated  Credits Allocated
+
+4                  2                  6
+
+Projects Awarded   Projects Awarded   Projects Awarded
+                                                                                   20
+
+CTCAC COMPLIANCE
+
+As required by federal law, CTCAC monitors a tax credit project for progress in meeting
+milestones and reservation requirements up until it is completed and "placed in service."
+Additionally, Internal Revenue Code Section 42 and state statutes require CTCAC to monitor
+compliance throughout the entire term of the project's regulatory period. CTCAC is required
+to monitor projects after they have been "placed-in-service" and every three years
+thereafter during the year federal credit compliance period. For the remaining term of the
+regulatory agreement, ranging from 30 years for older projects to 55 years for current
+projects, CTCAC is solely responsible for enforcement and monitoring projects on a five-year
+schedule. When CTCAC monitors a project, it inspects and reviews at least 20% of the files
+and residential units.
+
+CTCAC's compliance monitoring program must determine, among other requirements,
+whether the income of families residing in lower-income units and the rents they are charged
+are within agreed upon limits stated in the regulatory agreement. CTCAC staff must conduct
+physical inspections of units and buildings in each development to ensure they are in safe,
+sanitary, and habitable condition. Project owners are also required to report complete and
+accurate project information to CTCAC annually. All non-compliance with federal
+requirements or reporting failures during the federal credit compliance period, whether
+corrected or not, is required to be reported to the Internal Revenue Service (IRS). CTCAC
+Compliance completed 1,231 on-site audits in 2025, totaling over 16,081 units. During the 15-
+year federal compliance period, the IRS may recapture federal tax credits from owners for
+findings of non-compliance. Thereafter, and for violations of state requirements that exceed
+federal standards, CTCAC may issue negative points to owners, levy fines, or pursue legal
+action.
+
+In addition to performing compliance monitoring, CTCAC staff conducts annual basic and
+advanced compliance workshops for owners, developers, investors, management company
+agents, and asset managers. In 2025, the CTCAC staff held a total of 5 compliance
+workshops virtually to stakeholders, including owners, tax credit investors and property
+managers, to provide updates on CTCAC and the program generally. Over 30 hours of
+training was provided by CTCAC staff to the 979 participants who attended these workshops.
+
+As required by AB 2006 (Berman, 2022), CTCAC, the Department of Housing and Community
+Development (HCD), and the California Housing Finance Agency (CalHFA) entered into a
+Memorandum of Understanding (MOU) in July 2024 between the three agencies to
+streamline the compliance monitoring of affordable multifamily rental housing developments
+                                                                                    21
+
+that are subject to a regulatory agreement with more than one of these entities and began
+implementing the process in 2025.
+                                                                                   22
+
+AB 2873: HOUSING SUPPLIER DIVERSITY
+REPORTING
+
+Housing supplier diversity reporting requirements were established through Assembly Bill 2873
+(Jones-Sawyer, 2022) and are intended to increase supplier and contractor participation in
+the development of LIHTC projects by women, minority, disabled veteran, and LGBT business
+enterprises. Housing Sponsors that receive an allocation of low-income housing tax credits,
+beginning in 2024, must annually collect and report diverse housing supplier procurement
+data and a plan to increase procurement from diverse suppliers. CTCAC created guidelines
+and a reporting form to assist Housing Sponsors with this reporting.
+
+For the 2025 reporting period, CTCAC received 153 Housing Supplier Diversity Reporting
+Forms, providing insights into procurement trends and diversity efforts across LIHTC-funded
+projects. The collected data is summarized below.
+
+2025 Housing Supplier Diversity Data
+
+                           Overall Procurement        Diverse Suppliers Only
+                         Totals (Including Diverse
+      Supplier Category
+                                   Suppliers)
+Technology Contracts
+Goods Contracts          Number of    Totals          Number of  Totals
+Services Contracts       Contracts                    Contracts
+Construction Contracts
+Direct Contracts         68           $2,922,249      7          $707,565
+Sub-Contracts
+TOTALS                   88           $9,459,655      12         $491,236
+
+                         1,889        $181,987,271    385        $30,748,490
+
+                         2,624        $3,635,594,637  430        $472,621,944
+
+                         n/a          $1,385,358,133  65         $123,261,740
+
+                         n/a          $1,441,421,637  58         $227,801,318
+
+                         4,669        $3,829,963,813  834        $504,569,235
+                                                                                                    23
+
+LOOKING FORWARD
+
+Federal Changes
+H.R. 1 was signed into law in July 2025, increasing the federal 9% tax credit authority by 12%
+annually and reducing the bond funding threshold for projects to qualify for 4% LIHTCs from
+50% to 25%. These two changes will increase the number of projects awarded by (1)
+increasing available federal 9% LIHTCs and (2) more efficiently using tax-exempt bond
+authority, potentially doubling the number of projects awarded federal 4% LIHTCs.
+Novogradac, a national affordable housing and tax credit consulting firm, estimates these
+two changes would increase the amount of LIHTC units developed in California by over
+20,000 per year. Following quick implementation of reduced 25% standard, CTCAC awarded
+more than double the anticipated amount of federal 4% LIHTCs than expected in the third
+round of 2025, resulting in 10,000 more LIHTC units for 2025 compared to 2024, on pace to
+exceed the estimated 20,000 annual increase.
+
+Demand
+
+Demand for tax-exempt bond financing and, by extension, federal 4% LIHTCs for new
+construction projects is highly dependent on the availability of enhanced state LIHTCs and
+other state and local "soft" funding sources. The drop in new construction in 2023 was largely
+due to projects' reliance on enhanced state credits. While demand for the enhanced state
+credits is still high - $1.3 billion in requests for $500 million available ­ many projects were
+restructured to fill their financing gaps with other available "soft" funding sources in 2024 and
+2025, increasing the new construction numbers close to the same levels as 2021 and 2022.
+
+                     New Construction Trends 2012-2025
+
+100%            82%                      78% 81% 80%   75%  88% 88%        86%            89%  84%
+ 90%                                                                                79%   85%  80%
+ 80%   66% 65%       70%                                              82%
+ 70%                                                         77%           82%
+ 60%
+ 50%                                                                                 66%
+ 40%
+ 30%   43%                                    50% 45%
+ 20%             33% 29%
+ 10%                                34%  35%           39%
+   0%
+
+       2012 2013 2014 2015 2016 2017 2018 2019 2020 2021 2022 2023 2024 2025
+
+                     9% New Construction               4% New Construction
+                                                                                   24
+
+CDLAC's swift implementation of the 25% standard meant CDLAC and CTCAC were able to
+fund all new construction projects that did not request state credits in 2025 and fund more
+acquisition and rehabilitation projects than in previous years. Although the committees are
+still committed to prioritizing new construction, CDLAC increased the allocation to acquisition
+and rehabilitation projects to $1 billion in 2026 to help ensure full utilization of these federal
+resources and ensure the long-term affordability of the existing affordable housing portfolio.
+
+Annual Rent Cap Policy
+
+Pursuant to AB 846 (Bonta, 2024) and effective January 1, 2025, CTCAC implemented a rent
+increase limit on all low-income housing tax credit projects with a CTCAC regulatory
+agreement. Under the rent cap, owners may increase gross rent for a lower-income
+household provided that in any 12-month period the increase does not exceed the lesser of
+5% plus the percentage increase in the cost of living or 10% of the lowest rental rate charged
+for that household at any time during the 12 months prior to the effective date of the
+increase.
+
+Upon request, the Executive Director may waive the rent cap limit if the project owner shows
+that the proposed increase is necessary to ensure the financial stability or fiscal integrity of
+the project and does not unreasonably impact existing residents.
+
+The annual rent cap is in addition to the general program maximum rents for that are
+published by the Department of Housing and Urban Development each year.
+
+Affordable Housing Preservation
+
+To help to preserve the affordability of rent restricted multifamily rental housing and provide
+orderly, early warnings and purchase opportunities to keep units affordable when restrictions
+or subsidies expire, CTCAC developed and is implementing new processes to better track
+data and share information with the California Housing and Community Development's
+Housing Preservation Unit.
+                                                                                                                              25
+
+CTCAC HISTORIC 9% DATA
+
+The table below summarizes the amount of federal 9% and state tax
+credits awarded to projects from 1987 through 2025.
+
+9% Credits Awarded as of December 31 of the Allocation Year, 1987-2025
+
+       Federal      Federal      Number Lower-     Total      State       State     Number       Total
+       Credits       Credits                       Units     Credits     Credits        of       Units
+Year  Available    Awarded*      of        Income         Available**  Awarded*                 (State)
+                                                                                    Projects
+                                 Projects Units                                      (State)
+
+1987  $33,730,000  $5,090,439    66        2,497 2,840    $34,578,625  $6,818,086   17                                          755
+                                                                                                                              2,545
+1988  $34,578,750  $18,889,759   169       4,812 4,812    $34,578,625  $35,461,086  67                                        3,792
+                                                                                                                              1,490
+1989  $35,060,129  $35,060,129   155       7,960 8,303    $35,000,000  $61,433,913  74                                        1,547
+                                                                                                                              2,183
+1990  $34,717,032  $34,717,032   84        5,391 5,391    $35,000,000  $28,976,550  26                                        2,185
+                                                                                                                              2,085
+1991  $68,885,066  $68,885,066   78        9,122 9,122    $35,000,000  $34,855,113  28                                        2,006
+                                                                                                                              1,878
+1992  $64,261,202  $64,017,031   133       8,030 8,030    $35,000,000  $48,699,970  29                                        1,384
+                                                                                                                              2,061
+1993  $70,434,569  $70,434,569   128       9,001 9,001    $35,000,000  $49,043,203  32                                        2,141
+                                                                                                                              2,218
+1994  $68,944,489  $67,113,568   121       8,612 8,697    $35,000,000  $47,220,796  29                                        1,581
+                                                                                                                              2,492
+1995  $49,716,643  $48,616,533   83        5,680 5,680    $47,133,862  $48,469,566  28                                        2,164
+                                                                                                                              1,526
+1996  $48,286,953  $48,992,572   107       6,482 6,501    $33,599,382  $38,894,819  31                                        1,192
+                                                                                                                              1,146
+1997  $42,851,707  $41,911,674   77        5,213 5,213    $35,038,813  $33,913,707  17                                        1,352
+                                                                                                                              1,195
+1998  $43,688,538  $44,093,456   86        5,757 5,771    $51,453,018  $45,658,584  30                                        1,370
+
+1999  $43,800,383  $44,267,928   83        5,347 5,759    $51,784,811  $50,311,562  30                                          742
+                                                                                                                              2,114
+2000  $50,672,338  $50,667,206   81        5,057 5,667    $56,684,151  $56,040,292  32                                        1,822
+                                                                                                                              1,707
+2001  $51,574,882  $52,078,900   67        5,119 5,228    $71,207,244  $35,918,710  23                                        1,705
+                                                                                                                              1,938
+2002  $60,302,560  $62,802,560   68        5,392 5,518 $105,652,910    $91,928,018  24                                        1,421
+                                                                                                                              1,213
+2003  $62,732,155  $59,694,578   86        5,450 5,545    $83,835,104  $74,152,009  29                                        1,129
+                                                                                                                              1,426
+2004  $69,253,801  $61,038,716   65        4,508 4,591    $74,528,807  $67,423,784  22                                        1,152
+                                                                                                                              1,438
+2005  $71,582,089  $70,613,062   71        4,916 5,018    $78,593,303  $54,900,296  19                                        1,283
+                                                                                                                              1,608
+2006  $72,776,635  $72,500,934   70        4,098 4,210    $80,613,481  $67,913,607  18                                        1,594
+
+2007  $75,897,915  $76,997,954   70        4,424 4,504    $92,450,265  $71,062,246  19
+
+2008  $82,594,947  $81,738,210   72        4,640 4,724    $88,761,840  $67,371,340  19
+
+2009  $88,399,735  $91,099,781   79        4,840 4,934 $107,996,565    $72,515,252  19
+
+2010  $79,886,455  $79,964,641   75        4,170 4,245    $91,242,275  $31,372,828  14
+
+2011  $80,902,713  $83,682,515   105       6,026 6,150 $129,463,639    $86,979,826  34
+
+2012  $86,676,609  $87,345,016   102       6,246 6,363 $109,510,155    $85,508,947  28
+
+2013  $89,963,084  $86,760,169   84        5,080 5,171    $93,102,456  $77,737,478  29
+
+2014  $92,229,552  $91,789,133   83        4,846 4,931 $103,894,360    $97,523,148  29
+
+2015  $92,309,204  $91,101,325   89        4,794 4,903    $89,452,736 $111,069,513  39
+
+2016  $95,461,381  $94,897,880   82        4,513 4,649    $67,118,373  $73,548,126  27
+
+2017  $97,699,609  $97,105,701   64        3,844 3,912    $61,808,069  $84,395,506  18
+
+2018  $108,789,910 $108,955,667  70        4,143 4,232    $62,368,748  $63,863,106  19
+
+2019  $111,080,957 $111,548,104  68        3,851 3,924    $84,366,903  $87,268,614  22
+
+2020  $212,319,567 $210,190,924  103       6,884 7,129    $86,343,919  $87,233,658  16
+
+2021  $193,376,736 $191,444,125  106       6,235 6,357 $109,656,498    $97,062,762  23
+
+2022  $101,615,414 $117,721,696  62        3,451 3,518 $111,457,110 $110,153,585    20
+
+2023  $109,539,399 $110,559,098  57        2,936 2,991 $148,742,850 $160,313,311    27
+
+2024  $112,068,057 $113,944,937  55        3,232 3,310    $96,310,845 $162,338,732  23
+
+2025  $117,459,914 $115,545,376  58        2,953 3,012    $72,656,422 $115,271,800  17                                        888
+
+TOTAL $3,106,121,079 $3,063,877,964 3,362  205,552 209,856 $2,855,986,164 $2,720,623,449 1,030  65,468
+
+*Federal Credits Awarded reports current year awarded and includes any forward commitment made. Projects receiving
+awards in multiple years or returning credits and reapplying in a subsequent year are counted for each award received. State
+Credit Awarded from 1987-1993 is estimated based on available data.
+**State Credits Available is estimated in some years based on available data.
+                                                                                                                                  26
+
+CTCAC HISTORIC 4% DATA
+
+The table below summarizes the amount of federal 4% and state LIHTCs
+awarded to projects from 1987 through 2025.
+
+4% Credits Awarded as of December 31 of the Allocation Year, 1995-2025
+
+        Federal        Number Lower-   Total   State Credits  State Credits  Number     Total
+         Credits                       Units   Available**     Awarded*          of     Units
+Year   Awarded*        of     Income                                                   (State)
+                                                                             Projects
+                       Projects Units                                         (State)
+
+1995   $5,593,972      15      2,431    2,634                                0         0
+1996                           3,976    4,480
+1997   $7,064,992      26      6,076    7,379                                0         0
+1998                          12,743   14,383
+       $15,573,917     71                                                    0         0
+
+       $32,565,503     116                                    $4,575,223     7         628
+
+1999   $38,151,075     110    13,905   14,990                 $3,246,160     2           293
+2000                          14,759   15,436                                               0
+2001   $47,010,344     109    14,864   16,429                 $0             0              0
+2002                          12,627   15,451                                               0
+2003   $58,249,828     123    13,329   15,730                 $0             0
+2004                          11,066   12,361                                            713
+2005   $62,496,934     130    11,279   11,846                 $0             0           140
+2006                          12,356   12,804                                            963
+2007   $73,099,179     138    12,795   13,717  $12,575,266    $9,683,098     8           583
+                                               $11,179,321                             1,003
+       $65,748,903     112                     $11,788,995    $3,248,707     3
+                                               $12,092,022
+       $73,893,061     120                     $13,867,540    $19,092,357    10
+
+       $86,164,472     115                                    $13,597,161    9
+
+       $93,173,118     119                                    $23,395,641    9
+
+2008   $86,604,695     122    11,433 12,355    $13,314,276    $27,512,886    10        759
+
+2009   $43,486,921     64     5,236    5,437   $16,199,485    $6,718,223     3         183
+
+2010   $33,596,704     49      4,481    5,248  $13,686,341    $22,964,367    9           789
+2011                          10,473   11,248  $19,419,546                             1,134
+2012   $83,046,843     125                     $16,426,502    $23,833,168    16        1,212
+2013                           9,021    9,478  $13,965,368
+       $69,902,808     96      9,292    9,804                 $26,322,456    13          451
+
+       $67,917,076     95                                     $9,004,034     7
+
+2014   $80,820,170     105    9,004    9,213   $15,584,154    $14,553,964    8           533
+2015                                                                                     578
+2016   $137,554,828    132    13,317 13,601    $13,417,910    $12,978,507    8           386
+2017                                                                                     351
+2018   $229,615,414    187    19,804 20,847    $14,183,335    $13,802,178    5           348
+2019                                                                                     351
+2020   $124,868,779    105    9,492 10,179     $14,477,647    $14,410,723    5         6,808
+2021                                                                                   7,503
+2022   $214,395,831    135    14,619 15,527    $14,782,992    $14,551,552    4         6,135
+2023                                                                                   4,945
+2024   $241,573,051    155    16,619 17,111    $15,065,371    $13,484,975    3         7,764
+
+       $301,706,282    181    16,908 17,555    $515,409,634   $494,037,277   75
+
+       $358,991,060    164    16,518 16,729    $533,835,493   $504,501,818   72
+
+       $280,130,462    101    11,151 11,320    $518,662,405   $525,762,088   51
+
+       $387,010,314    127    14,796 14,975    $516,505,403   $529,373,901   40
+
+       $435,481,645    138    15,271 15,484    $529,373,901   $505,232,408   40
+
+2025   $639,918,711    195    25,476 25,781    $504,166,150   $512,589,281   44        5,308
+
+Total  $4,475,406,892  3,580  375,117 399,352 $3,359,979,057 $3,348,472,153  461       46,861
+
+*Federal Credits Awarded totals the awards made in each year. Projects receiving awards in multiple years or returning credits
+awarded in one year and reapplying in a subsequent year are counted for each award received. Although 4% credit awards
+were made from 1987-1994, there is a lack of sufficient verifiable data in those early years of the program. Some data presented
+is based on CTCAC prior year annual reports.
+**Beginning in 2003, 15% of the State Credits Available was set aside for 4% projects.
+

@@ -1,1 +1,46 @@
-[]
+[
+  {
+    "id": "2025-annual-report",
+    "title": "2025 Annual Report of the California Tax Credit Allocation Committee (CTCAC)",
+    "url": "https://website-prod.treasurer.ca.gov/sites/default/files/ctcac/2025-Annual-Report.pdf",
+    "original": "sources/2025-annual-report.pdf",
+    "capture": "captures/2025-annual-report.txt",
+    "extractor": "pdftotext -layout",
+    "sha256": "394f0dd59d1aa0dca3337bb753698baa40d2400b970e69f948b2bd476e75e025",
+    "capture_sha256": "2bc3e283b6a447a46abf32136b70ef395f7fc52cbb68442659f3f5fb04759153",
+    "added_on": "2026-10-14"
+  },
+  {
+    "id": "ca-25-087",
+    "title": "CTCAC Project Staff Report CA-25-087 Turning Point Commons (2025)",
+    "url": "https://www.treasurer.ca.gov/sites/default/files/ctcac/CA-25-087.pdf",
+    "original": "sources/ca-25-087.pdf",
+    "capture": "captures/ca-25-087.txt",
+    "extractor": "pdftotext -layout",
+    "sha256": "6c489cd128bd14f2ac1653ff9250013b8bc29c93c3f69c659c82916272ad416a",
+    "capture_sha256": "242aff5163095b1144458aad29ae4ceb92923cc60c7d19e533527d3c059e8b7d",
+    "added_on": "2026-10-14"
+  },
+  {
+    "id": "ca-25-013",
+    "title": "CTCAC Project Staff Report CA-25-013 Tracy Apartments Phase I (2025)",
+    "url": "https://www.treasurer.ca.gov/sites/default/files/ctcac/CA-25-013.pdf",
+    "original": "sources/ca-25-013.pdf",
+    "capture": "captures/ca-25-013.txt",
+    "extractor": "pdftotext -layout",
+    "sha256": "181642a95dd4eab9a1e5609828547d8e81345d37eebd783bdd28295e9116d45c",
+    "capture_sha256": "e04949a703b9235123a70d99c71eb9e022eb9eb141a1d17a4bb7247541bcfc50",
+    "added_on": "2026-10-14"
+  },
+  {
+    "id": "ca-25-426",
+    "title": "CTCAC Project Staff Report CA-25-426 Berryessa Family Apartments (2025)",
+    "url": "https://www.treasurer.ca.gov/sites/default/files/ctcac/CA-25-426.pdf",
+    "original": "sources/ca-25-426.pdf",
+    "capture": "captures/ca-25-426.txt",
+    "extractor": "pdftotext -layout",
+    "sha256": "520e966b455f49c46d413ef1d131c2a9a24cd7b81c21dbaeb0f4f78a2d0302a0",
+    "capture_sha256": "ecfcc5387a2497f9a337b5b0f8f5bcf88731923287ab45d353e76360de32ccaa",
+    "added_on": "2026-10-14"
+  }
+]

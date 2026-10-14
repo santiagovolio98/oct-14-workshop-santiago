@@ -1,0 +1,4 @@
+# Originals and captures are fingerprinted byte for byte (see verify.py).
+# Store them exactly, with no line-ending conversion.
+sources/** -text
+captures/** -text
